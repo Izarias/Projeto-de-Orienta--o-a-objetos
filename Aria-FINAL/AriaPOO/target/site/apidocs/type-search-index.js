@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"modelo","l":"Artista"},{"p":"controle","l":"CadastroArtista"},{"p":"controle","l":"CadastroMusica"},{"p":"modelo","l":"Estrangeira"},{"p":"view","l":"MenuPrincipal"},{"p":"modelo","l":"Musica"},{"p":"modelo","l":"Nacional"}];updateSearchResults();
